@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/scheng/.gradle/caches/modules-2/files-2.1/com.github.oxo42/stateless4j/2.4.0/128aca4ace585f0b42faa739d0b968a154debb7a/stateless4j-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="128aca4ace585f0b42faa739d0b968a154debb7a">
+        <dex dex="/Users/scheng/Downloads/quizzdroid-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/stateless4j-2.4.0_53ae170a5e10a51a709e2633a4870e6b9a846e2e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scheng/Downloads/quizzdroid-starter/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/scheng/Downloads/quizzdroid-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_83af1b033a595586bbb450fc9a9b0ccccd78b441/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scheng/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/scheng/Downloads/quizzdroid-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_489b16d5d44f531590bfeae7d83ad4d57226d3ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scheng/Downloads/quizzdroid-starter/app/build/intermediates/exploded-aar/com.couchbase.lite/couchbase-lite-android/1.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3ff8f27d4f03623592b40f37465d57981f8f37f4">
+        <dex dex="/Users/scheng/Downloads/quizzdroid-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.couchbase.lite-couchbase-lite-android-1.2.1_42fa9c77874e90d9c47411a35a1f12b6b256e6ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scheng/.gradle/caches/modules-2/files-2.1/org.mozilla/rhino/1.7R3/3bff1e632c665f8cf2d438f77a9f4d0758277db5/rhino-1.7R3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3bff1e632c665f8cf2d438f77a9f4d0758277db5">
+        <dex dex="/Users/scheng/Downloads/quizzdroid-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/rhino-1.7R3_8346bb666153eb16f16edd0088b2d45a0bf22cc7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scheng/.gradle/caches/modules-2/files-2.1/com.couchbase.cblite/servlet/2-3/ee3fdda3a13d36e33604881346b479b31bbcb6b7/servlet-2-3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ee3fdda3a13d36e33604881346b479b31bbcb6b7">
+        <dex dex="/Users/scheng/Downloads/quizzdroid-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/servlet-2-3_ed6c28b2a3ce90920257c2507c93742ddfb5dd46/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scheng/Downloads/quizzdroid-starter/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7467ee76f2bc93495d2963f133d06a28b7acbe49">
+        <dex dex="/Users/scheng/Downloads/quizzdroid-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1fef2f67271532d687d066165a841dba3804b43e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scheng/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.5.0/b2ece1bd57ac7b4c315b7505b65ac79cb1da4270/jackson-core-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b2ece1bd57ac7b4c315b7505b65ac79cb1da4270">
+        <dex dex="/Users/scheng/Downloads/quizzdroid-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-2.5.0_d329a4ede217a167bfd4a8cebe5c058458c463da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scheng/Downloads/quizzdroid-starter/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b0dc0f8ee51331a0fda1525cb345c70e8023acaf">
+        <dex dex="/Users/scheng/Downloads/quizzdroid-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a8906ad11dee8200bcfd17397b8f47d3388259bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scheng/.gradle/caches/modules-2/files-2.1/com.couchbase.lite/couchbase-lite-java-listener/1.2.1/75a9ecdbb681803fe5f550da63dfac66a506a613/couchbase-lite-java-listener-1.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="75a9ecdbb681803fe5f550da63dfac66a506a613">
+        <dex dex="/Users/scheng/Downloads/quizzdroid-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/couchbase-lite-java-listener-1.2.1_3c9008f957f474a0957a176ddece8432baf4b362/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scheng/.gradle/caches/modules-2/files-2.1/com.couchbase.lite/couchbase-lite-java-javascript/1.2.1/b3d63b9272d94813be6dba516e87a942015cd700/couchbase-lite-java-javascript-1.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b3d63b9272d94813be6dba516e87a942015cd700">
+        <dex dex="/Users/scheng/Downloads/quizzdroid-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/couchbase-lite-java-javascript-1.2.1_c512eab2dbfbadd8af2f21a73e58523ce7e2f25d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scheng/.gradle/caches/modules-2/files-2.1/com.couchbase.lite/couchbase-lite-java-core/1.2.1/ffd63d435d8c2ba13575cead721b5a64b021335f/couchbase-lite-java-core-1.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ffd63d435d8c2ba13575cead721b5a64b021335f">
+        <dex dex="/Users/scheng/Downloads/quizzdroid-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/couchbase-lite-java-core-1.2.1_dc012c37c324fec1d2718065275690cd51f87dde/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scheng/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.5.0/489b7552dd3322b63f694122d16ce62c21c303b5/jackson-databind-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="489b7552dd3322b63f694122d16ce62c21c303b5">
+        <dex dex="/Users/scheng/Downloads/quizzdroid-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-databind-2.5.0_8246171453dcd71c3a6961aeed0d29f591d8f38b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scheng/Downloads/quizzdroid-starter/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/scheng/Downloads/quizzdroid-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_dad9e947c1d69fee671100b734c5ffc32db7c007/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scheng/Downloads/quizzdroid-starter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/scheng/Downloads/quizzdroid-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_fb8a804d01d5883b6c633862705d24966a0cdf88/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scheng/Downloads/quizzdroid-starter/app/build/intermediates/exploded-aar/com.couchbase.lite/couchbase-lite-android-sqlite-default/1.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="df78eba53e01ecb50e09156b7aab0479a2d32bf7">
+        <dex dex="/Users/scheng/Downloads/quizzdroid-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.couchbase.lite-couchbase-lite-android-sqlite-default-1.2.1_a30acff8b64f4541d4843be715bf2b02927c8adb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scheng/Downloads/quizzdroid-starter/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/scheng/Downloads/quizzdroid-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_36396fe4b133cd8c6c19a680d4ddedca4293caae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scheng/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.5.0/a2a55a3375bc1cef830ca426d68d2ea22961190e/jackson-annotations-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a2a55a3375bc1cef830ca426d68d2ea22961190e">
+        <dex dex="/Users/scheng/Downloads/quizzdroid-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-annotations-2.5.0_14edb3fada2eae9eb3520e8d0cc6840125021518/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scheng/.gradle/caches/modules-2/files-2.1/com.couchbase.cblite/webserver/2-3/3139c2f41e5779ff17733648eb674a11dd5db0ac/webserver-2-3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3139c2f41e5779ff17733648eb674a11dd5db0ac">
+        <dex dex="/Users/scheng/Downloads/quizzdroid-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/webserver-2-3_b44d5925fae2420bef7ce80e0a8131f8724fc0cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scheng/Downloads/quizzdroid-starter/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/Users/scheng/Downloads/quizzdroid-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.3.0_fbe8dd6693f36e60a83e1facfff0b951eaf5860f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scheng/Downloads/quizzdroid-starter/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/scheng/Downloads/quizzdroid-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_789fddc0ae316a03546049da7111f7e6413f9bf6/classes.dex" />
+    </item>
+
+</items>
